@@ -1,7 +1,0 @@
-A simple app to aid physical security. If paired BT device leaves certain range,
-active windows lock screen through keyboard shortcut
-
-IMPORT BLUETOOTH
-PAIR BT DEVICE
-IF DEVICE RANGE > DESIRED
-KEYBOARD SHORTCUT (WINDOWS KEY + L)
